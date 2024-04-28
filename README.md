@@ -6,7 +6,7 @@ Brought to you by Scrum Facilitators, a Sprint Planning template to help you hav
 
 This template is available in the following formats:
 
-- a [Mural template](https://app.mural.co/t/tadaaa7088/template/451da6b1-f799-4b34-a4c9-922483c85a27) you can open and save to your own Mural workspace.
+- a [Mural template](https://app.mural.co/template/451da6b1-f799-4b34-a4c9-922483c85a27/1b3cde1f-130a-4f34-aa77-8ccfe091b08d) you can open and save to your own Mural workspace.
 - a Miro template you can upload to your Miro workspace
 - a [pdf](SprintPlanning_v1.0.pdf) for your printing purposes
 
