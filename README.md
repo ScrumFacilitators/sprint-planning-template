@@ -10,13 +10,16 @@ The template is available in the following formats:
 
 - a [Mural template](https://app.mural.co/template/451da6b1-f799-4b34-a4c9-922483c85a27/1b3cde1f-130a-4f34-aa77-8ccfe091b08d) you can open and save to your own Mural workspace,
 - a [Miro template](SprintPlanning_v1.0.rtb) you can upload to your Miro workspace,
-- a [pdf](SprintPlanning_v1.0.pdf) for your printing purposes.
+- a [pdf](SprintPlanning_v1.0.pdf) for your printing purposes,
+- a [png](SprintPlanning_v1.0.png) image file.
 
-The template includes the same short manual inclued below, describing how to use it.
+The template includes the same short manual included below, describing how to use it.
 
-The template should be useful for any kind of team. It serves as a primer to organise the Sprint Planning around a Sprint Goal, and offers a logical sequence of steps to create an effective Sprint plan.
+The template should be useful for any type of team. It serves as a primer to organise the Sprint Planning around a Sprint Goal, and offers a logical sequence of steps to create an effective Sprint plan.
 
-**Note** that before getting started with the Sprint Planning using this tempalte, you may want to ensure you have a Product Goal and that the whole team is aware of it. This will provide context for your Sprint Planning and make it more effective.
+**Note** *that before getting started with the Sprint Planning using this template, you may want to ensure you have a Product Goal and that the whole team is aware of it. This will provide context for your Sprint Planning and make it more effective.*
+
+*For help on that, please refer to our [Vision & Roadmap Template](https://github.com/ScrumFacilitators/VisionandRoadmap), which is also available in our github.*
 
 ## Manual
 
